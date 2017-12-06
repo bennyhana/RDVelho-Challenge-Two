@@ -1,3 +1,4 @@
+import time
 from math import sin, cos, radians
 from urllib.request import urlopen
 
